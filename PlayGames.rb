@@ -3,7 +3,7 @@ class PlayGames
 
 
 
-    def play(game)
+    def playGames(game)
         begin game.play()
             game.get_results()
             
