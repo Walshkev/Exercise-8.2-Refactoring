@@ -1,7 +1,4 @@
 class PlayGames
-  
-
-
 
     def playGames(game)
         begin game.play()
